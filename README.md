@@ -7,7 +7,7 @@ I’m enthusiastic about creating seamless, responsive, and user-friendly web ap
 <a href="https://www.linkedin.com/in/mohammed-zaid-frontend-developer/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://leetcode.com/your-username" target="_blank">
+<a href="https://leetcode.com/u/zaidraini/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
 </a>
 
